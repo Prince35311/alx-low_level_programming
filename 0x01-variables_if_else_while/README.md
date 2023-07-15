@@ -14,7 +14,7 @@ Write a program that prints the alphabet in lowercase, followed by a new line.
 #### 3. alphABET
 Write a program that prints the alphabet in lowercase, and then in uppercase, followed by a new line.
 
-####4. When I was having that alphabet soup, I never thought that it would pay off
+#### 4. When I was having that alphabet soup, I never thought that it would pay off
 Write a program that prints the alphabet in lowercase, followed by a new line.
 
 #### 5. Numbers
@@ -26,4 +26,4 @@ Write a program that prints all single digit numbers of base 10 starting from 0,
 #### 7. Smile in the mirror
 Write a program that prints the lowercase alphabet in reverse, followed by a new line.
 
-#####etc...
+##### etc...
